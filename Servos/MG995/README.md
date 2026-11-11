@@ -1,8 +1,6 @@
-# MG995
+# MG99xx
 
-Modelo CAD del servomotor MG995.
+Modelo CAD del servomotor MG995 y MG996.
 
 ## Archivos
-- MG995.ipt
-- Horn.ipt
-- MG995.step
+- MG99xx.ipt
